@@ -1,0 +1,7 @@
+INFO:root:../data/raw_data.csv 文件已经存在
+INFO:root:../data/pre_training.csv 文件已经存在
+INFO:root:../data/com_training.txt 文件已经存在
+INFO:root:create lagging feature success
+INFO:root:handle link infos feature success
+INFO:root:handle base time feature success
+INFO:root:../data/training.txt save success
